@@ -1,2 +1,4 @@
-# assignment_template
-outline for basic assignments
+# Decision Trees
+
+
+If you get an error on push, remember to pull first. 
